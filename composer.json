@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
-        "ishaankumar/hello-world": "dev-master"
+        "ishaankumar/hello-world": "stable"
     },
     "autoload": {
         "psr-0": {
