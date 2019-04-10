@@ -4,7 +4,7 @@ class SayHello
 {
 public static function world()
 {
-return '12334final package Hello World, Composer! we are making some changes here';
+return 'final package Hello World, Composer! we are making some changes here';
 }
 }
 
